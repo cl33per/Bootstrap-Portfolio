@@ -180,7 +180,9 @@ a {
   margin: 0px 20px 10px 0px;
   width: 100%;
 }
-
+.black{
+  background: #222;
+}
 .logo {
   width: 200px;
 }
