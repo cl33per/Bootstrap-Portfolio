@@ -14,10 +14,6 @@ Basic Porfolio 8.2.2019 by Codycodes
 5. Footer #footer
 --------------------------------------------------------------------------*/
 /* 1. Elements */
-html {
-  height: 100%;
-  position: relative;
-}
 
 body {
   color: #777777;
@@ -185,35 +181,6 @@ a {
 }
 .logo {
   width: 200px;
-}
-
-.port {
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.port-1 {
-  background-image: url("../images/ethan.jpg");
-}
-
-.port-2 {
-  background-image: url("../images/everly.jpg");
-}
-
-.port-3 {
-  background-image: url("../images/family.jpg");
-}
-
-.port-4 {
-  background-image: url("../images/family2.jpeg");
-}
-
-.port-5 {
-  background-image: url("../images/family3.jpg");
-}
-
-.port-6 {
-  background-image: url("../images/family4.jpg");
 }
 
 /* social icons */
